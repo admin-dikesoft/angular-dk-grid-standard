@@ -1,0 +1,34 @@
+{
+  "name": "@dk-grid-standard/angular",
+  "version": "1.0.0",
+  "description": "DkGrid - An Angular Data Grid for Angular developers.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/admin-dikesoft/angular-dk-grid-standard.git"
+
+  },
+  "author": {
+    "name": "dikesoft",
+    "email": "admin@dikesoft.com"
+  },
+  "homepage": "https://www.dikesoft.com/dk-grid",
+  "keywords": [
+    "DkGrid",
+    "dk-grid",
+    "angular",
+    "material",
+    "angular material",
+    "angular-material",
+    "angular-component",
+    "grid",
+    "table",
+    "angular data grid",
+    "data grid",
+    "data-grid",
+    "datagrid",
+    "data table",
+    "data-table",
+    "datatable"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md"
+}
